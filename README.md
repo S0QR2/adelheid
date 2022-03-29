@@ -2,6 +2,8 @@
 
 Sanny is a 75% Alice-like keyboard with fixed ISO Layout.
 
+![image](https://user-images.githubusercontent.com/29768692/160621826-3d6bc49e-7da3-4a49-bc41-c89561998107.png)
+
 It's a fork of FateNozomi's Arisu files: [Arisu PCB](https://github.com/FateNozomi/arisu-pcb) &amp; [Arisu case](https://github.com/FateNozomi/arisu-case)
 
 This repository includes files for:
