@@ -32,4 +32,6 @@ A VIAL Firmware Version with ISO Layout: https://github.com/S0QR2/adelheid/blob/
 
 ## Miscellaneous
 
+Considerations when building: https://github.com/S0QR2/adelheid/blob/iso/IMAGES.md
+
 Use at your own Risk
