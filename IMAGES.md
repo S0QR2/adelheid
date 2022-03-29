@@ -1,58 +1,22 @@
-# 𝕬𝖉𝖊𝖑𝖍𝖊𝖎𝖉 - Images
+# Sanny - Images
 
-(~14MB)
+
 
 ## Finished Keyboard
 
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/adelheid.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/adelheid2.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/adelheid3.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/adelheid_sq.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/closeup_left.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/closeup_right.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/side_scoops.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/side_shadow.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/side_sunny.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/top_view.jpg)
+![image](https://user-images.githubusercontent.com/29768692/160660441-f4d9fd09-7196-463d-b877-e569e196f1fe.png)
 
-## PCB
+Build with clear plate 3mm thickness. If you experience that switches get pushed out from the plate some felt pads can help keep the distance between PCB and Plate.
 
-### Alpha Version
+![image](https://user-images.githubusercontent.com/29768692/160660664-2638a432-3777-4c3f-b3dc-30ada526429b.png)
 
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/alpha_plain_bottom.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/alpha_plain_top.jpg)
+Felt pads are not visible with keycaps. If you dont want them visible at all, you might opt for an opaque palte.
 
-### Revision 1.0
+![image](https://user-images.githubusercontent.com/29768692/160660891-1450d47f-623a-4ba0-94bb-b61439571619.png)
 
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/rev1_assembled_bottom.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/rev1_assembled_top.jpg)
+Half clear and half opaque case can give a nice effect with the underglow
 
-### Revision 2.0
+![image](https://user-images.githubusercontent.com/29768692/160661109-51fd806d-a1dc-442c-a6e2-472e4a7558ab.png)
 
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/underglow.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/9e10a12793ed65a09f529caf7a6c52b8ec96cc22/backlight_full.jpg) (the wire is there because of Rev1.0&rarr;Rev2.0 conversion)
 
-## Case
 
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/case_wo_keycaps.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/case_wo_keycaps_frontal.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/plate_assembled.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/case_assembled_bottom.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/raw_layers.jpg)
-
-## Layout
-
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/layout.png)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/layout_progression.jpg)
-
-## Wrist Rest
-
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/angled_bottom.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/angled_detached.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/angled_side.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/angled_top.jpg)
-
-## Arisu Comparison
-
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/top_by_top.jpg)
-![i](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/side_by_side.jpg)
