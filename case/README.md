@@ -1,11 +1,11 @@
-# 𝕬𝖉𝖊𝖑𝖍𝖊𝖎𝖉 - Case
+# Sanny - Case
 
 ## Lasercutable Layered Case
 
-![high profile case top](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/case_wo_keycaps.jpg)  
+![Case in Layers](https://user-images.githubusercontent.com/29768692/160618108-1d623efd-d589-4da9-be82-c21d8f053573.png)
+
+Space inside the Top Layers is perfectly suited for printing something inside like a Plate Support Fork.
+
+![Support Fork](https://user-images.githubusercontent.com/29768692/160618251-fcbeeacb-67e7-406e-b37f-2ee8cfaf3357.png)
+
 [more information here](./lasercut-layers/README.md)
-
-## 3D Printable Case
-
-no ETA  
-[more information here](./3d-printed/README.md)
