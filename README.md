@@ -26,7 +26,7 @@ And the online configurator: https://config.qmk.fm/#/adelheid/LAYOUT
 
 A VIAL Firmware Version with ISO Layout:
 
-!![VIAL_Dark](https://user-images.githubusercontent.com/29768692/160615138-ca435132-12b3-4da5-87c8-0a2e85f16dd7.JPG)
+![VIAL_Dark](https://user-images.githubusercontent.com/29768692/160615138-ca435132-12b3-4da5-87c8-0a2e85f16dd7.JPG)
 
 ## Miscellaneous
 
