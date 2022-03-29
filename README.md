@@ -8,7 +8,7 @@ This repository includes files for:
 
 - the Sanny PCB &rarr; [README.md](./pcb/README.md)
 - a layered case &rarr; [README.md](./case/README.md)
-- a wrist rest &rarr; [README.md](./wrist-rest/README.md)
+- a wrist rest is available in the original Respository &rarr;
 
 ## Changes in this fork
 
