@@ -1,15 +1,12 @@
 # Lasercutable Layered Case
 
-![high profile case top](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/case_wo_keycaps_frontal.jpg)  
-![high profile case bottom](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/559336bcb5f8c04bbea9ad8aab7397812ab72859/case_assembled_bottom.jpg)  
+![image](https://user-images.githubusercontent.com/29768692/160619587-3ce99e6e-f584-4acf-8239-ad85ac694339.png)
 
 The case is kept similarly to the Arisu case:
 
 - sandwich mount
 - 6 layers of 3mm material (plus 2 feet layers for angle)
-
-![raw layers](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/raw_layers.jpg)
-
+- 
 ## Assembly parts list
 
 HiPro (LoPro)
