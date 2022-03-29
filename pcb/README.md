@@ -1,9 +1,10 @@
-# 𝕬𝖉𝖊𝖑𝖍𝖊𝖎𝖉 - PCB
+# Sanny - PCB
 
-![adelheid_pcb_top](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/rev1_assembled_top.jpg)  
-![adelheid_pcb_bottom](https://gist.githubusercontent.com/floookay/7bf6511a8d84804d32de4d7bbe3bd0fb/raw/4545813142abf2e65902b7caca10f7a3b39ebaed/rev1_assembled_bottom.jpg)
+![Top](https://user-images.githubusercontent.com/29768692/160620632-4c939df5-782b-491c-a77e-95d25684c94c.png)  
 
-The PCB for the Adelheid was designed using KiCAD on top of the Arisu PCB files.
+![Bottom](https://user-images.githubusercontent.com/29768692/160620781-30ffb702-bbaf-436f-a9a6-da091016ef5f.png)
+
+The PCB for the Sanny was designed using KiCAD on top of the Arisu PCB files.
 
 ## Changes compared to the Arisu PCB
 
@@ -11,6 +12,12 @@ The PCB for the Adelheid was designed using KiCAD on top of the Arisu PCB files.
 - [x] Added footprint for stepped caps lock key
 - [x] Changed the micro USB port to a tht mini USB port
 - [x] Added single color underglow and key lighting
+
+## Changes compared to the Adelheid PCB
+
+- [x] Added 2U Backspace 
+- [x] Added ISO Enter
+- [x] Added KC_NUBS  
 
 ## FateNozomi's Arisu description
 
